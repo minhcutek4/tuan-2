@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\bin\Debug\net9.0-windows\tuan_2_1.exe
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\bin\Debug\net9.0-windows\tuan_2_1.deps.json
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\bin\Debug\net9.0-windows\tuan_2_1.runtimeconfig.json
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\bin\Debug\net9.0-windows\tuan_2_1.dll
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\bin\Debug\net9.0-windows\tuan_2_1.pdb
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.Form1.resources
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.AssemblyInfo.cs
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.dll
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\refint\tuan_2_1.dll
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.pdb
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\tuan_2_1.genruntimeconfig.cache
+\\Mac\Home\Desktop\bài tập c#\tuan 2\bài 1\tuan_2_1\tuan_2_1\obj\Debug\net9.0-windows\ref\tuan_2_1.dll
